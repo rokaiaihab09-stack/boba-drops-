@@ -1,12 +1,11 @@
 img{
-    width: 200px;
+    width: 300px;
+    border-image: round;
+
 }
 body {
-    text-align: center;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-   
-
-
-
-
+    text-align:center;
+    font-family:fantasy;
+    color:lightblue;
+    background-color: aliceblue;
 }
